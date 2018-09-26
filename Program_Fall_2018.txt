@@ -1,0 +1,15 @@
+Learn 2 Code @ CRI Program for the 1st semester (sept - dec 2018)
+
+    1. Web languages (HTML / CSS) VS programming languages (JAVA, Javascript, …)
+
+    2. The recipe as an algorithm 
+
+    3. Types, Variables, Operators
+
+    4. Prompt user (Javascript)
+
+    5. Conditions 
+
+    6. Loops
+
+    7. Functions
